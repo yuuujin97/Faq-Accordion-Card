@@ -1,4 +1,4 @@
-# Frontend Mentor : Faq-Accordion-Card
+# Frontend Mentor : Faq Accordion Card
 
 ⭐완성된 Challenges : https://yuuujin97.github.io/Faq-Accordion-Card/
 
